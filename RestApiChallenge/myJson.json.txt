@@ -1,0 +1,11 @@
+{
+
+    "username": "Gloria",
+
+    "password": "Virginia",
+
+   "search_text": "climateChange"
+   
+   "result_amount": "500"
+   
+}
